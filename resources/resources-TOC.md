@@ -1,8 +1,8 @@
 # Glossary  
 # About the Common Fund Data Ecosystem  
-* Executive Summary  
-* Vision  
-* Mission Statement  
+* Example page 1  
+* Example page 2  
+* Example page 3  
 # Core Documents  
-* On "Commonsing"  
-* Why Multiple Stacks are Necessary
+* Example page 1  
+* Example page 2
