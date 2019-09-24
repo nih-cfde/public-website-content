@@ -1,6 +1,8 @@
 # Public website content  
-Please submit all content changes / additions here in markdown format.  
-There are templates in each folder which can be duplicated and renamed for each addition.  
-Please refer to templates for images sizes and make sure all images are uploaded to the images folder.  
-### [Markdown Help](https://github.com/nih-cfde/organization/blob/master/MarkdownHelp.md)  
-### [Site Mockups Repo](https://github.com/nih-cfde/public-website-mockups)
+### To view the current site design with example content, use the [Website Mockups Repo](https://github.com/nih-cfde/public-website-mockups).  
+
+### To add content:
+* Templates for each type of content can be found in the respective content type folder. Duplicate the template and rename it with a descriptive title (ex: a product page about BioJupies should be a duplicate of product-template.md in the products folder and renamed to biojupies.md).  
+* Edit content using Markdown ([Markdown Help](https://github.com/nih-cfde/organization/blob/master/MarkdownHelp.md))  
+* Upload relevant images to the images folder. Please follow size and naming requirements from the content templates. If you want to replace an image, please add "-new" to the filename.  
+* Issue a pull request to this repo with your new content.
