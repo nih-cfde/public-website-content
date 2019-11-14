@@ -1,2 +1,2 @@
-<h2 class="center">Questions? Comments?</h2>
+## Questions? Comments?
 Fusce eget quam risus. Praesent porttitor, ipsum eu euismod bibendum, dolor arcu ultrices purus, eu tristique metus massa vitae mauris. Maecenas lobortis at odio aliquam cursus. Vestibulum et egestas lacus. Sed faucibus tincidunt sapien, vehicula tincidunt dui porttitor nec. Curabitur a cursus arcu. Donec at erat sagittis eros viverra volutpat sed et velit. Donec bibendum efficitur lorem ac dignissim.
