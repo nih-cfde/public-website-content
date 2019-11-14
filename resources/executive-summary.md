@@ -1,11 +1,3 @@
-# About the Common Fund Data Ecosystem  
-![CFDE workshop participants](images/sep-18-group.jpg)
-Common Fund Data Ecosystem workshop participants meet in Chicago to discuss how to build better infrastructure and community resources for biomedical research.  
-## Executive Summary  
-Table of Contents:  
-* Preamble  
-* The Common Fund DCCs  
-  
 ### Preamble  
 In early 2019, we were charged with assessing the opportunities and challenges that Common Fund DCCs face with respect to making their data more accessible and usable within and between CF programs. Identifying and solving issues that inhibit data access and reuse will lead to enhanced utility of CF data, both during the CF support period and after a CF program has ended. Moreover, we wish to lay the foundation for interoperability that will enable work across one or more CF programs. Our effort identifies many of the vital elements needed to build a comprehensive Common Fund digital ecosystem.  
   
