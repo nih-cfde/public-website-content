@@ -1,4 +1,4 @@
-Table of Contents:
+Table of Contents:  
 [Recommendation 1: Support the current DCCs with targeted investments](#user-content-recommendation-1-support-the-current-dccs-with-targeted-investments)  
 [Recommendation 2: Support the current DCCs with cross-DCC investments](#user-content-recommendation-2-support-the-current-dccs-with-cross-dcc-investments)  
 [Recommendation 3: Support a shift in current CFDE activities to support transformative activities](#user-content-recommendation-3-support-a-shift-in-current-cfde-activities-to-support-transformative-activities)  
