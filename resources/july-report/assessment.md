@@ -24,8 +24,9 @@ Other general information about all of the DCCs are the following:
 
 __Common Fund DCCs have vast data assets.__ The Common Fund DCCs possess data derived from hundreds of studies and samples collected from thousands of human subjects. A summary of the datatypes and studies hosted by each DCC is shown in Table 1: an incredible diversity of datatypes has been generated at the genomic, expression, proteomic, metagenomic, and imaging levels. At each DCC website, users can search through these data using a wide variety of facets, such as assay, project, tissue type, disease, patient variables. Information for individual genes is available for expression, epigenomics, variants, and chromatin organization. 
 
+| |:-:|:-:|:-:|:-:|:-:|:-:|
 | | 4D Nucleome | GTEx | HMP / iHMP | Kids First | LINCS | Metabolomics |
-|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|-:|:-|:-|:-|:-|:-|:-|
 | Studies and Bulk File Content | 730 experiment sets, 2107 experiments, 6823 files, 28.99 TB, 166 external datasets | 53 Tissues, 960 donors 30,000 samples, data set size expected increase to a total of 600BG by next release | 21 studies, 48 primary body sites, >32,000 samples, >118,000 files, 9.75TB (iHMP), 7.22TB (HMP) | 11 studies, each with 250-2,000+ subjects, 927.1TB | 398 datasets, 100TB genomic data, >1PB imaging data | 920 studies, 6.4TB (compressed zip files), 233 studies with restricted access |
 | Dataset types | DNA FISH, RNA FISH, SPT, 2-stage Repli-seq, in situ Hi-C, single cell Hi-C, RNA-seq, ChIP-seq, DamID-seq, ATAC-seq, NAD-seq, ChIA-PET, DNA SPRITE, PLAC-seq, MARGI, RNA-DNA SPRTIE, Micro-C, TSA-Seq | De-identified annotations, RNA-seq, single-tissue cis-eQTLs, multi-tissue eQTLs, single-cell data | Reference microbial genomes, whole metagenomic sequence, 16S metagenomic sequence | BAM, CRAM, fastq, VCF, clinical measurements | Binding, imaging, transcriptomics, proteomics, epigenomics | Raw/unprocessed NMR data, MS data, Processed data (general) |  
 
@@ -36,8 +37,8 @@ __Common Fund DCCs exist on a continuum.__ Figure 1 shows approximate start and 
 ![dcc funding dates](https://github.com/nih-cfde/public-website-content/blob/master/images/july-report-fig-1.png)
 **Figure 1:** Approximate start and end dates of Common Fund funding for the Common Fund DCCs. Some dates may be inaccurate due to differences between funding approval and program start. 
 
-| | 4D Nucleome | GTEx | HMP / iHMP | Kids First | LINCS | Metabolomics | Hubmap | MoTrPAC | SPARC |
 |-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| | 4D Nucleome | GTEx | HMP / iHMP | Kids First | LINCS | Metabolomics | Hubmap | MoTrPAC | SPARC |
 | API available | Yes | Yes | Yes | Yes | Yes | Yes | N/A | N/A | N/A |
 | Data model documented | Yes | Yes | Yes | Yes | Yes | Yes | N/A | N/A | N/A |
 | Training materials online | Yes | Yes | Yes | Yes | Yes | Yes | N/A | N/A | N/A |
