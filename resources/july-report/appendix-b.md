@@ -1,13 +1,13 @@
 Table of Contents:  
-[Kids First](#kids-first)  
-[GTEx](#gtex)  
-[HMP/iHMP](#hmp-ihmp)  
-[LINCS](#lincs)  
-[4D Nucleome](#4d-nucleome)  
-[Metabolomics](#metabolomics)  
-[MoTrPAC](#motrpac)  
-[SPARC](#sparc)  
-[HuBMAP](#hubmap)
+[Kids First](#user-content-kids-first)  
+[GTEx](#user-content-gtex)  
+[HMP/iHMP](#user-content-hmp-ihmp)  
+[LINCS](#user-content-lincs)  
+[4D Nucleome](#user-content-4d-nucleome)  
+[Metabolomics](#user-content-metabolomics)  
+[MoTrPAC](#user-content-motrpac)  
+[SPARC](#user-content-sparc)  
+[HuBMAP](#user-content-hubmap)
 
 #### Kids First
 **General description**

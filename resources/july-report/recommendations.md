@@ -1,9 +1,9 @@
 Table of Contents:
-[Recommendation 1: Support the current DCCs with targeted investments](#recommendation-1-support-the-current-dccs-with-targeted-investments)  
-[Recommendation 2: Support the current DCCs with cross-DCC investments](#recommendation-2-support-the-current-dccs-with-cross-dcc-investments)  
-[Recommendation 3: Support a shift in current CFDE activities to support transformative activities](#recommendation-3-support-a-shift-in-current-cfde-activities-to-support-transformative-activities)  
-[Recommendation 4: Invest in new transformative activities by the current CFDE Team](#recommendation-4-invest-in-new-transformative-activities-by-the-current-cfde-team)  
-[Recommendation 5: Invest in long-term ecosystem support with targeted RFAs](#recommendation-5-invest-in-long-term-ecosystem-support-with-targeted-rfas)
+[Recommendation 1: Support the current DCCs with targeted investments](#user-content-recommendation-1-support-the-current-dccs-with-targeted-investments)  
+[Recommendation 2: Support the current DCCs with cross-DCC investments](#user-content-recommendation-2-support-the-current-dccs-with-cross-dcc-investments)  
+[Recommendation 3: Support a shift in current CFDE activities to support transformative activities](#user-content-recommendation-3-support-a-shift-in-current-cfde-activities-to-support-transformative-activities)  
+[Recommendation 4: Invest in new transformative activities by the current CFDE Team](#user-content-recommendation-4-invest-in-new-transformative-activities-by-the-current-cfde-team)  
+[Recommendation 5: Invest in long-term ecosystem support with targeted RFAs](#user-content-recommendation-5-invest-in-long-term-ecosystem-support-with-targeted-rfas)
 
 We have identified potential for investment in 5 categories. Projected costs in these sections are based on reported costs from DCCs where possible. All other costs are estimated using figures from Appendix H. Estimations for salaries do not contain fringe benefit costs, nor do estimations  include costs associated with institutional facilities and administrative rates (F&R).
 

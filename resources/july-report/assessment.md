@@ -1,8 +1,8 @@
-Table of Contents:
-[General description of the DCCs; commonalities and differences](#general-description-of-the-dccs-commonalities-and-differences)  
-[Deep dives](#deep-dives)  
-[Opportunities and Challenges for Individual DCCs, summarized](#opportunities-and-challenges-for-individual-dccs-summarized)  
-[Opportunities and Challenges across the DCCs, summarized](#opportunities-and-challenges-across-the-dccs-summarized)  
+Table of Contents:  
+[General description of the DCCs; commonalities and differences](#user-content-general-description-of-the-dccs-commonalities-and-differences)  
+[Deep dives](#user-content-deep-dives)  
+[Opportunities and Challenges for Individual DCCs, summarized](#user-content-opportunities-and-challenges-for-individual-dccs-summarized)  
+[Opportunities and Challenges across the DCCs, summarized](#user-content-opportunities-and-challenges-across-the-dccs-summarized)  
 
 ### General description of the DCCs; commonalities and differences
 The goal of this section is to compare and contrast the content, status and maturity of Common Fund DCCs. Information here was collected either by passive review of the websites and resources of the DCCs, or through personal contact with DCC staff (see [Appendix A, Methodology](./appendix-a).
@@ -27,7 +27,7 @@ __Common Fund DCCs have vast data assets.__ The Common Fund DCCs possess data de
 | | 4D Nucleome | GTEx | HMP / iHMP | Kids First | LINCS | Metabolomics |
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 | Studies and Bulk File Content | 730 experiment sets, 2107 experiments, 6823 files, 28.99 TB, 166 external datasets | 53 Tissues, 960 donors 30,000 samples, data set size expected increase to a total of 600BG by next release | 21 studies, 48 primary body sites, >32,000 samples, >118,000 files, 9.75TB (iHMP), 7.22TB (HMP) | 11 studies, each with 250-2,000+ subjects, 927.1TB | 398 datasets, 100TB genomic data, >1PB imaging data | 920 studies, 6.4TB (compressed zip files), 233 studies with restricted access |
-| Dataset types | DNA FISH, RNA FISH, SPT, 2-stage Repli-seq, in situ Hi-C, single cell Hi-C, RNA-seq, ChIP-seq, DamID-seq, ATAC-seq, NAD-seq, ChIA-PET, DNA SPRITE, PLAC-seq, MARGI, RNA-DNA SPRTIE, Micro-C, TSA-Seq | De-identified annotations, RNA-seq, single-tissue cis-eQTLs, multi-tissue eQTLs, single-cell data | Reference microbial genomes, whole metagenomic sequence, 16S metagenomic sequence | BAM, CRAM, fastq, VCF, clinical measurements | Binding, imaging, transcriptomics, proteomics, epigenomics | Raw/unprocessed NMR data, MS data, Processed data (general) |
+| Dataset types | DNA FISH, RNA FISH, SPT, 2-stage Repli-seq, in situ Hi-C, single cell Hi-C, RNA-seq, ChIP-seq, DamID-seq, ATAC-seq, NAD-seq, ChIA-PET, DNA SPRITE, PLAC-seq, MARGI, RNA-DNA SPRTIE, Micro-C, TSA-Seq | De-identified annotations, RNA-seq, single-tissue cis-eQTLs, multi-tissue eQTLs, single-cell data | Reference microbial genomes, whole metagenomic sequence, 16S metagenomic sequence | BAM, CRAM, fastq, VCF, clinical measurements | Binding, imaging, transcriptomics, proteomics, epigenomics | Raw/unprocessed NMR data, MS data, Processed data (general) |  
 **Table 1:** Summary of bulk assets hosted by each DCC who host data publicly, and their relevant studies.
 
 __Common Fund DCCs exist on a continuum.__ Figure 1 shows approximate start and end dates of Common Fund funding for each of the DCCs; it is recognized that funding for some programs is continued by another NIH IC. One implication of the range in start dates is that DCCs vary widely in their data assets, depending on their stage of maturity. For example, HuBMap was launched in November 2018 and is not expected to be in production phase until 2022. At the other extreme, the HMP/iHMP DCC has completed 10 years of operation and is generating no new data - its funding has been discontinued. The DCCs also vary in terms of their readiness to be operationalized on cloud-based systems. This is reflected in Table 2, which provides a short summary of data hosted at each site, their number of users, and whether each DCC is using a cloud-based system.
@@ -44,7 +44,7 @@ __Common Fund DCCs exist on a continuum.__ Figure 1 shows approximate start and 
 | Total volume of data | 28TB | 600GB | 10TB(iHMP) 7TB(HMP) | 927TB | 100TB genomic, >1PB imaging | 6.4TB | N/A | N/A | N/A |
 | Linked to cloud workspace | Yes | Yes | No | Yes | Yes | No | N/A | N/A | N/A |
 | Cloud or local storage | Cloud | Cloud | Local | Cloud | Local | Cloud | N/A | N/A | N/A |
-| Protected data hosted at dbGaP | No | Yes | Yes | Yes | Yes | No | N/A | N/A | N/A |
+| Protected data hosted at dbGaP | No | Yes | Yes | Yes | Yes | No | N/A | N/A | N/A |  
 **Table 2:** Approximate dataset size, numbers of users, controlled access usage, and additional resources hosted by Common Fund DCCs
 
 __Commonalities and complementarity of DCC assets.__ A comparison of data types across all DCCs is presented in Table 3; these data indicate that the same types of data are hosted between sites, and that data found between sites could be useful in combination. Whole genome sequence, exome sequence, and transcriptional data were among the datatypes most frequently hosted by the DCCs. Several sites host data associated with human genes, which means that if properly linked, users could obtain expression, epigenetic, and variant information associated with specific gene regions. Metadata categories are also frequently similar across multiple sites. For example several sites host data associated with a body site, suggesting that queries such as "retrieve all datasets associated with skin samples" would return multiple datatypes from multiple DCCs. At least four DCCs host clinical information which suggests that CFDE users could obtain sets of different datatypes associated with disease and patient variables (e.g. body mass index, blood pressure) from across the Common Fund DCCs.
