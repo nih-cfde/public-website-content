@@ -39,8 +39,7 @@ The following are the expected costs associated with a two day conference for ap
 | Short Travel  | $1,500 | $2,500 |
 | Catering, meals | $45 | $120 |
 | Catering, snacks | $10 | $20 |
-|-:|:-:|:-:|
-| 30 people | $46,650 | $79,200 |
+| **Totals: 30 people** | **$46,650** | **$79,200** |
 
 | Per Event Resource | Low estimate | High estimate |
 |:-|:-:|:-:|
@@ -49,19 +48,18 @@ The following are the expected costs associated with a two day conference for ap
 | Assessment | $200 | $700 |
 | Miscellaneous Supplies | $100 | $200 |
 | Event Administration | $830 | $1,875 |
-|-:|:-:|:-:|
-| Totals, 2 days | $1,930 | $4,775 |
+| **Totals: 2 days** | **$1,930** | **$4,775** |
 
 The following are the expected costs associated with a two day workshop for approximately 30 attendees. For an all-inclusive workshop, where the CF pays for the cost of attendees, we expect the cost to be $57,025  - $99,300. A workshop where attendees pay for their own travel and accommodations would be approximately: $10,105 - $19,075 
 
-All inclusive:  
+All inclusive:
+
 | Per person Resource | Low estimate | High estimate |
 |:-|:-:|:-:|
 | Short Travel  | $1,500 | $2,500 |
 | Catering, meals | $45 | $120 |
 | Catering, snacks | $10 | $20 |
-|-:|:-:|:-:|
-| Total: 30 attendees plus 5 staff | $54,425 | $92,400 |
+| **Totals: 30 attendees plus 5 staff** | **$54,425** | **$92,400** |
 
 | Per Event Resource | Low estimate | High estimate |
 |:-|:-:|:-:|
@@ -70,20 +68,19 @@ All inclusive:
 | Assessment | $200 | $700 |
 | Miscellaneous Supplies | $100 | $200 |
 | Event Administration* | $1,500 | $4,000 |
-|-:|:-:|:-:|
-| 2 days | $2,600 | $6,900 |
+| **Totals: 2 days** | **$2,600** | **$6,900** |
 
 *Paying attendee costs will likely more than double the typical administrative burden
 
-Attendee pays:  
+Attendee pays:
+
 | Per person Resource | Low estimate | High estimate |
 |:-|:-:|:-:|
 | Short Travel, staff only  | $1,500 | $2,500 |
 | Staff Catering, all meals | $45 | $120 |
 | Attendee Catering, lunch only | $15 | $40 |
 | Catering, snacks, all | $10 | $20 |
-|-:|:-:|:-:|
-| 30 attendees, 5 staff | $8,175 | $14,300 |
+| **Totals: 30 attendees, 5 staff** | **$8,175** | **$14,300** |
 
 | Per Event Resource | Low estimate | High estimate |
 |:-|:-:|:-:|
@@ -92,5 +89,4 @@ Attendee pays:
 | Assessment | $200 | $700 |
 | Miscellaneous Supplies | $100 | $200 |
 | Event Administration | $830 | $1,875 |
-|-:|:-:|:-:|
-| 2 days | $1,930 | $4,775 |
+| **Totals: 2 days** | **$1,930** | **$4,775** |
