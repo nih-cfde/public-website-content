@@ -58,7 +58,7 @@ This is largely due to the age of their data. For example, HMP1 did their gene c
 The HMP has already experienced problems with users trying to re-use their data. Since their funding has ended, members of their consortium have wanted to write publications and still required support from the DCC for data wrangling, as the data essentially needs to be entirely reprocessed for each user. One solution might be to fund the HMP to update the pipeline and reprocess all the data, so that the data is more directly comparable to modern analyses.
 
 ### Authentication/Authorization
-Covered in [Brian O’Connor’s report](./appendix-j).
+Covered in [Brian O’Connor’s report](../july-report-appendix-j-single-sign-on-and-authorization-assessment).
 
 ### Data Dashboards
 The HMP currently has no funding to move their data to the cloud, and so cannot use a data dashboard.

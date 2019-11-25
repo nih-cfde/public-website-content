@@ -9,7 +9,7 @@ Table of Contents:
 [SPARC](#user-content-sparc)  
 [HuBMAP](#user-content-hubmap)
 
-#### Kids First
+### Kids First
 **General description**
 Integrates genomic and clinical data from different disease types to accelerate discovery using cloudbased analyses systems.
 
@@ -34,7 +34,7 @@ Yes
 **Cloud expertise / usage**
 Fully deployed on cloud-based system
 
-#### GTEx
+### GTEx
 **General description**
 The Genotype-Tissue Expression (GTEx) project aims to provide to the scientific community a resource with which to study human gene expression and regulation and its relationship to genetic variation.
 
@@ -59,7 +59,7 @@ Yes
 **Cloud expertise / usage**
 Fully deployed on cloud-based system
 
-#### HMP/iHMP
+### HMP/iHMP
 **General description**
 Characterization of the human microbiota to further our understanding of how the microbiome impacts human health and disease.
 
@@ -84,7 +84,7 @@ Yes
 **Cloud expertise / usage**
 Local servers for data served from the website. Have performed demonstrations/workshops with cloud-based data.
 
-#### LINCS
+### LINCS
 **General description**
 The Library of Integrated Network-Based Cellular Signatures (LINCS) Program aims to create a network-based understanding of biology by cataloging changes in gene expression and other cellular processes that occur when cells are exposed to a variety of perturbing agents.
 
@@ -109,7 +109,7 @@ Most data is not protected. Some information may be in dbGaP.
 **Cloud expertise / usage**
 Not as yet, effort towards using cloud based systems underway.
 
-#### 4D Nucleome
+### 4D Nucleome
 **General description**
 The 4D Nucleome (4DB) project aims to understand principles underlying nuclear organization in space (three dimensions) and time (the fourth dimension), the role nuclear organization plays in gene expression and cellular function, and how changes in nuclear organization affect normal development as well as various diseases.
 
@@ -134,7 +134,7 @@ No
 **Cloud expertise / usage**
 Fully deployed on cloud-based system
 
-#### Metabolomics
+### Metabolomics
 **General description**
 The Common Fund’s Metabolomics program serves as long standing national public repository for metabolomic data. Users are enabled to analyze and interpret metabolomics data, including the ability to determine metabolite identities. This project also has developed best practices and guidelines to promote accuracy, reproducibility, and re-analysis of metabolomics data.
 
@@ -159,7 +159,7 @@ No
 **Cloud expertise / usage**
 Cloud-based data hosted at the San Diego Supercomputer Center.
 
-#### MoTrPAC
+### MoTrPAC
 **General description**
 The Molecular Transducers of Physical Activity in Humans program aims to extensively catalogue the biological molecules affected by physical activity in people, identify some of the key molecules that underlie the systemic effects of physical activity, and characterize the function of these key molecules.
 
@@ -175,7 +175,7 @@ No data available yet.
 **Dataset types**
 Genomic, transcriptomic, epigenomic, metabolomics and proteomics data are expected.
 
-#### SPARC
+### SPARC
 **General description**
 The Stimulating Peripheral Activity to Relieve Conditions (SPARC) program aims to transform our understanding of nerve-organ interactions and ultimately advance the neuromodulation field toward precise treatment of diseases and conditions for which conventional therapies fall short.
 
@@ -194,7 +194,7 @@ Imaging and omics data, such as proteomics and transcriptomics are expected.  Fu
 **Cloud expertise / usage**
 Blackfynn, Inc. has been awarded funding for five-years to develop a cloudbased scientific data management platform tailored to the needs of SPARC investigators.
 
-#### HuBMAP
+### HuBMAP
 **General description**
 The Human BioMolecular Atlas Project (HuBMAP) aims to catalyze development of an open, global framework for comprehensively mapping the human body at the level of individual cells.
 

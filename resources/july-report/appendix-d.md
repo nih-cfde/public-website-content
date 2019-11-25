@@ -96,7 +96,7 @@ Generally speaking, and in keeping with their goals, Kids First data is very reu
 In terms of the reusability of their infrastructure, various components ranged from ‘not at all’ to ‘completely reusable’. Their metadata model as a whole is not reusable. As discussed previously, they took a very practical approach to metadata as necessitated by operational needs, so their model is tailored to their data. However, FHIR, the standard they’ve adopted for patient variables, is very reusable, as is the KF data portal site. They also pointed out that their authentication system is universalizable already, it’s just burdensome to set up. However, the biggest challenge is contracts not technology. If NIH built the authentication system, there would be no need for an ATO, but right now everyone has to build their own system, and that requires FISMA moderate and an ATO, which are expensive and time consuming sign-offs.
 
 ### Authentication/Authorization
-Covered in [Brian O’Connor’s report](./appendix-j).
+Covered in [Brian O’Connor’s report](../july-report-appendix-j-single-sign-on-and-authorization-assessment).
 
 ### Data Dashboards
 Kids First already has all of their data in the cloud, and has a system in place for ingest, so they were not initially interested in the Data Dashboard as proposed by the CFDE. However, they imagine that a dashboard with a few added features would be very useful. In particular, one that manages patient uploaded data, or one that tracks usage or processing type statistics such as:

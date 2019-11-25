@@ -57,7 +57,7 @@ Of their 112 respondents, ~87.5% said yes to each of these questions. Although a
 GTEx is somewhat less concerned about the other aspects of FAIR: Interoperability and Reusability. The concern with these concepts is similar to the one they raised about metadata ‘levels’: whether a dataset or data center is ‘interoperable’ is based on what other dataset or data center you are comparing it to, and these pair-based comparisons are difficult or impossible to generalize. They will always be project-interaction-specific and context dependent. Similarly, whether a dataset is ‘reuseable’ is extremely difficult to judge, and contingent on people actually having done it, i.e. “data is not reusable unless it has been reused.” 
 
 ### Authentication/Authorization
-Covered in [Brian O’Connor’s report](./appendix-j).
+Covered in [Brian O’Connor’s report](../july-report-appendix-j-single-sign-on-and-authorization-assessment).
 
 ### Data Dashboards
 All of GTEx’s raw data is currently hosted on Google Cloud, so they have little use for this utility. If it could monitor access (which is currently a problem) or help with reporting usage statistics, they might find that useful. 

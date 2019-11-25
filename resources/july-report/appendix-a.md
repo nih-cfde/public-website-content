@@ -1,21 +1,17 @@
-DCC SITE VISITS. 
-
+#### DCC SITE VISITS 
 Two separate meetings were held with GTEx and Kids First, each meeting was for a day and a half. Prior to the meetings we presented an hour long presentation by teleconference to give an overview of the CFDE, answer questions, and establish the goals of the visit. An agenda was exchanged with DCC personnel, who assisted with arriving at the final material to cover at the meeting. During the meeting, the agenda was used as an informal guide for structuring the day. Four CFDE personnel which always included Amanda Charbonneau (UCD),  Brian O'Connor (Bionimbus), Titus Brown (UCD), and Owen White (UMB). Primary representatives from each DCC included the PIs and their senior technical staff. In most cases were able to meet with the entire DCC staff during the visit. 
 
 Discussions were initiated with short introductions from the engagement team and attending DCC members. We reviewed that the goal for the engagement team was to collect information about the DCC, including technical specifications about the data they host, as well as information about training, organization, and the overall set of priorities for the DCC group. The DCC group was then asked to provide an overview of their operation, with topics including: mission, vision, goals, stakeholders, and challenges. Most of the CFDE members took separate notes, all of which were recorded and stored as google documents. Notes were then reviewed and collated into the reports appearing in the appendices in each report. Another goal of the site visits was to establish how relevant the activities planned by the CFDE were to each DCC. This was achieved by hearing about the general challenges faced by the DCC in their presentations, informal conversations and a final summary discussion held on the second day. Summaries from both site visits were reviewed with NIH staff members within one week of each visit. 
 
-TELECONFERENCE INTERVIEWS WITH LINCS AND HMP/iHMP
-
+#### TELECONFERENCE INTERVIEWS WITH LINCS AND HMP/iHMP
 Separate 3 hour teleconferences were held with LINCS and the HMP/iHMP DCCs. Agendas for each meeting were circulated prior to each call. Teleconferences were initiated with short introductions from engagement team members and attending DCC members. Goals for the meeting were reviewed and focussed on the DCC team values for things like: mission, vision, goals, stakeholders, and challenges. Reviews of types and formats maintained, tools and resources owned by the DCC were also performed. Prior to each meeting participants were asked to sort their goals for the DCC using an online resource known as FunRetro which enables users to create comments in responses to questions, and to prioritize those comments. 
 
 Each DCC was requested to provide a short 20 minute overview presentation, and team members were asked to cover topics such as: the vision for your organization, problems it is solving, goals for the next year, issues that are taking up their bulk of their time, challenges blocking implementation, and a number of user engagement questions. The remaining time for the teleconference calls where then dedicated to review the results of the goals assessment to ensure the engagement team accurately reflects the DCCs answers, motivations and goals. 
 
-PASSIVE EVALUATION OF EACH DCC
-
+#### PASSIVE EVALUATION OF EACH DCC
 Members from three separate CFDE technical teams performed independent evaluation of each DCC resource. The information presented in Tables 1-3 and Figure 1 was initially gathered by our team by reviewing the NIH Common Fund Programs website (<https://commonfund.nih.gov/initiativeslist>), checking data in NIH RePORTER, and visiting the current websites and data portals for each of the DCCs. (We registered for access to data portals when necessary to gain access to details.) We confirmed and added to technical pieces (e.g., data types, use of cloud resources and cloud expertise) during our interviews with four of the DCCs.
 
-OVERALL FACT CHECKING
-
+#### OVERALL FACT CHECKING
 Information from all tables, appendices and this report have been reviewed by CFDE technical team members from at least two different institutions. Staff from NIH have also participated in review of material appearing in all report documents. Reports for the two DCC site visits have been vetted for accuracy by the DCC staff from those institutions. FAIRness measures were collected and summarized by CFDE technical team members from two different institutions.
 
 __Staff from the DCCs have NOT reviewed information collected by passive evaluation.__
