@@ -2,9 +2,9 @@ Table of Contents:
 [Meeting Logistics](#user-content-meeting-logistics)  
 [GTEx Overview](#user-content-gtex-overview)  
 [Harmonized Data](#user-content-harmonized-data)  
-[Cross Cutting Metadata Standards](#user-content-cross-cutting-metadata-standards)  
+[Cross Cutting Metadata Models](#user-content-cross-cutting-metadata-models)  
 [Self-Governed Metadata Standards](#user-content-self-governed-metadata-standards)  
-[FAIR Assessment](#user-content-fair-assessment)  
+[FAIR Assessments](#user-content-fair-assessments)  
     [Findability and Accessibility](#user-content-findability-and-accessibility)  
     [Interoperability and Reusability](#user-content-interoperability-and-reusability)  
 [Authentication/Authorization](#user-content-authentication-authorization)  
@@ -41,7 +41,7 @@ One potential solution to this is to introduce ‘metadata levels’, where a pa
 ### Self-governed metadata standards
 GTEx would be interested in contributing to defining a metadata standard, assuming that standard is based on something like the ontology described in the Harmonized Data section. That is, a method that encodes each ontology into a data definition language. In this way, two different ontologies can still be in the same common schema, and users that have knowledge of the ontology can use the same API to access that information. GTEx is not interested in participating in an attempt to broadly harmonize across every Data Commons dataset. This would take a substantial amount of resources, and they are skeptical that it can be achieved in any practical way. 
 
-### FAIR assessment
+### FAIR assessments
 #### Findability and Accessibility 
 GTEx made a clear distinction between the different parts of FAIR and how, and whether, they are useful. Findability and Accessibility are important and actionable. As is further discussed in the Data Platform section, the raw data from GTEx is currently not readily accessible by users. As part of the DCPPC, GTEx moved all of their raw data into the cloud, however, when the program ended, the system for providing access to that data ended with it. Accessibility will continue to be a problem until there is both a system in place for data access, and also a long-term plan for funding the cloud model. The GTEx team are working on hosting of their upcoming V8 release with ANVIL.
 

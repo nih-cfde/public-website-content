@@ -16,6 +16,16 @@
 * Risks and Challenges
 * Acknowledgements
 * Appendices
+    * Appendix A: Methodology
+    * Appendix B: Overview of all DCCs
+    * Appendix C: GTEx summary
+    * Appendix D: Kids First summary
+    * Appendix E: HMP summary
+    * Appendix F: LINCS summary
+    * Appendix G: CFDE tech team deliverables to December 2019
+    * Appendix H: Cost estimators
+    * Appendix I: GTEx and Kids First joint exercise
+    * Appendix J: Single sign on and authorization assessment
 # October 2019 Report
 * Introduction
 * Assessment: Recent Deep Dives
