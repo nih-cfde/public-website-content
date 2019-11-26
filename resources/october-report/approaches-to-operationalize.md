@@ -4,7 +4,7 @@ Table of Contents:
 [Approach 3: Training](#user-content-approach-3-training)  
 [Approach 4: Addressing Data Incompatibility Concerns](#user-content-approach-4-addressing-data-incompatibility-concerns)  
 [Approach 5: Federating with Data Resources External to the Common Fund](#user-content-approach-5-federating-with-data-resources-external-to-the-common-fund)  
-[Approach 6: Assessing the Optimal Balance of Cloud Versus On-Premises Computing](#user-content-approach-6-assessing-the-optimal-balance-of-cloud-versus-on-premises-computing)  
+[Approach 6: Assessing the Optimal Balance of Cloud Versus On-Premises Computing and Storage](#user-content-approach-6-assessing-the-optimal-balance-of-cloud-versus-on-premises-computing-and-storage)  
 [Approach 7: Changing Role of Site Visits](#user-content-approach-7-changing-role-of-site-visits)  
 
 ### Approach 1: Data Federation
