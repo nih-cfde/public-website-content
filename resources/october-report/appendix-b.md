@@ -197,7 +197,7 @@ An exercise to get an idea of what types of things are important, what types of 
 **Lunch**
 
 **1 - 3:30pm Open discussion (with breaks)**  
-Using the results of the morning exercise and a collaborative format, iteratively discuss goals, blockers, etc., such that the DCC agrees that the engagement team can accurately describe their answers, motivations and goals. Topics don’t need to be covered it order, we’d just like to touch on these types of questions.
+Using the results of the morning exercise and a collaborative format, iteratively discuss goals, blockers, etc., such that the DCC agrees that the engagement team can accurately describe their answers, motivations and goals. Topics don’t need to be covered it order, we’d just like to touch on these types of questions.  
 **Topics:**  
 Infrastructure:  
 * Do you intend to host data on a cloud service? 

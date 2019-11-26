@@ -5,7 +5,7 @@ Table of Contents:
 [Opportunities and Challenges across the DCCs, summarized](#user-content-opportunities-and-challenges-across-the-dccs-summarized)  
 
 ### General description of the DCCs; commonalities and differences
-The goal of this section is to compare and contrast the content, status and maturity of Common Fund DCCs. Information here was collected either by passive review of the websites and resources of the DCCs, or through personal contact with DCC staff (see [Appendix A, Methodology](./appendix-a).
+The goal of this section is to compare and contrast the content, status and maturity of Common Fund DCCs. Information here was collected either by passive review of the websites and resources of the DCCs, or through personal contact with DCC staff (see [Appendix A, Methodology](./appendix-a)).
 
 First impressions. Collectively, the Common Fund DCCs:
 * Range from just getting started to fully implemented;
