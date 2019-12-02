@@ -1,31 +1,4 @@
-## BioJupies  
 ### Automated Generation of Interactive Notebooks for RNA-Seq Data Analysis in the Cloud  
-
-product-biojupies.jpg
-
-product-biojupies-diagram.jpg
-
-product-biojupies2.jpg
-
-Contact: Avi Ma'ayan PhD (avi.maayan@mssm.edu) 
-* Author 1: Denis Torre
-* Author 2: Alexander Lachmann
-* Author 3: Avi Ma'ayan
-  
-- Jupyter Notebook
-- RNA-seq
-- Bioinformatics
-- Data Visualization
-- Enrichment Analysis
-- Systems Biology
-- Workflows
-- Signatures
-- Pipelines
-- Cloud Computing
-
-[BioJupies Website](https://amp.pharm.mssm.edu/biojupies/)
-
-[BioJupies Publication](https://www.ncbi.nlm.nih.gov/pubmed/30447998)
 
 [BioJupies Tutorials](https://www.youtube.com/playlist?list=PLfq4yYrYksVjtq2-vjwnywqGMLAJwrBsR)
 
