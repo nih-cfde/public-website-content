@@ -1,2 +1,2 @@
 ## Questions? Comments?
-Fusce eget quam risus. Praesent porttitor, ipsum eu euismod bibendum, dolor arcu ultrices purus, eu tristique metus massa vitae mauris. Maecenas lobortis at odio aliquam cursus. Vestibulum et egestas lacus. Sed faucibus tincidunt sapien, vehicula tincidunt dui porttitor nec. Curabitur a cursus arcu. Donec at erat sagittis eros viverra volutpat sed et velit. Donec bibendum efficitur lorem ac dignissim.
+Interested in learning more about the CFDE? Becoming a DCC partner? Attending one of our events? Please fill out the form below and we'll be in touch.
