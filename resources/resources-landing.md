@@ -1,4 +1,3 @@
-![CFDE workshop participants](https://github.com/nih-cfde/public-website-content/blob/master/images/sep-18-group.jpg)*Common Fund Data Ecosystem workshop participants meet in Chicago to discuss how to build better infrastructure and community resources for biomedical research.*
 ## Open Standards, Open Source Software, Open Collaboration
 The Common Fund is developing a data ecosystem (Common Fund Data Ecosystem, CFDE) where Common Fund datasets will be stored in the digital cloud environment. This is necessary because the way that the biomedical research interacts with digital data is changing; no longer can large biomedical datasets be stored or analyzed using local computers and servers. The new CFDE will allow larger amounts of data to be stored and will provide the framework for researchers to analyze data simultaneously from different and diverse datasets.  
   
