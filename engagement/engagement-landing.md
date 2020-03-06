@@ -7,7 +7,7 @@ The Common Fund Data Ecosystem Coordinating Center is looking forward to working
 [Full Engagement Opportunity Announcement](https://nih-cfde.org/wp-content/uploads/2020/01/Engagement-Opportunity-Announcement-1-29-20-FINAL.pdf)
 
 ## Important Dates
-| ## Key Events | ## 1st Round | ## 2nd Round |
+| Key Events | 1st Round | 2nd Round |
 |:-|:-:|:-:|
 | Engagement Opportunity posted | January 29, 2020 | - |
 | Cross-pollination meeting | January 30-31, 2020 | TBD |
