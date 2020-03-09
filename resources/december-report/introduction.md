@@ -1,0 +1,10 @@
+**[View/Download the full December report on figshare](https://figshare.com/articles/2019-December_CFDE_AssessmentReport_pdf/11592936)**  
+  
+Common Fund datasets are highly diverse -- representing collections of genomic, expression, proteomic, metagenomic, and imaging assets. The CF data are also incredibly deep, derived from hundreds of studies, with samples collected from thousands of human subjects. The sheer volume, richness and complexity of data challenges clinical and biomedical researchers to use the data effectively. There are tremendous opportunities to organize this inherently complex data to better support researchers.  
+  
+During 2019 we engaged in a listening tour of Common Fund Data Coordinating/Resource Centers (DCC)s to better understand the obstacles DCCs face in making Common Fund datasets more accessible to researchers. The effort resulted in two previous interim reports \[[July](https://figshare.com/articles/2019-July_CFDE_AssessmentReport_pdf/9588374), [October](https://figshare.com/articles/2019-October_CFDE_AssessmentReport_pdf/10261055)\] that describe a series of institutional burdens faced by the CF DCCs that impede interoperability across the Common Fund. Overcoming these challenges will lead to a more vibrant Common Fund digital ecosystem of interoperating datasets.  
+  
+![site visit summary](https://github.com/nih-cfde/public-website-content/blob/master/images/december-report-table-1.jpg)
+**Table 1:** A summary of site visits to 9 independent DCCs conducted over 2019.  
+  
+TABLE 1 lists the challenges faced by the DCCs. There are a number of pain points for DCCs associated with their lifecycle stage, the absence of standardized FAIR metrics, the need for data harmonization, the reusability of infrastructure tools, Single-Sign On and user access to protected data, and a strong need for training and user support.
