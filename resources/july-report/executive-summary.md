@@ -1,3 +1,5 @@
+**[View/Download the full July report on figshare](https://figshare.com/articles/2019-July_CFDE_AssessmentReport_pdf/9588374)**  
+  
 ### Preamble  
 In early 2019, we were charged with assessing the opportunities and challenges that Common Fund DCCs face with respect to making their data more accessible and usable within and between CF programs. Identifying and solving issues that inhibit data access and reuse will lead to enhanced utility of CF data, both during the CF support period and after a CF program has ended. Moreover, we wish to lay the foundation for interoperability that will enable work across one or more CF programs. Our effort identifies many of the vital elements needed to build a comprehensive Common Fund digital ecosystem.  
   
