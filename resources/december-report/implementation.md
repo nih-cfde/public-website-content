@@ -6,10 +6,10 @@ Table of Contents:
 [The CFDE Portal](#user-content-the-cfde-portal)  
 [Fair Metrics](#user-content-fair-metrics)  
 [Develop CFDE Best Practices](#user-content-develop-cfde-best-practices)  
-[Policy Development And Technical Implementation](#user-content-policy-development-and-technical-implementation)
-[Training Program Development](#user-content-training-program-development)
-[DCC Cross-Pollination Events](#user-content-dcc-crosspollination-events)
-[Increased Software Reuse](#user-content-increased-software-reuse)
+[Policy Development And Technical Implementation](#user-content-policy-development-and-technical-implementation)  
+[Training Program Development](#user-content-training-program-development)  
+[DCC Cross-Pollination Events](#user-content-dcc-cross-pollination-events)  
+[Increased Software Reuse](#user-content-increased-software-reuse)  
 [Platform For Innovation](#user-content-platform-for-innovation)  
   
 ### Federation 

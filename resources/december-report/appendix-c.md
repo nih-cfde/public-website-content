@@ -1,5 +1,5 @@
 Table of Contents:  
-[Stanford Molecular Transducers of Physical Activity Consortium (MoTrPAC) Bioinformatics Center (BIC) Site Visit](#user-content-stanford-molecular-transducers-of-physical-activity-consortium-MoTrPAC-bioinformatics-center-bic-site-visit)  
+[Stanford Molecular Transducers of Physical Activity Consortium (MoTrPAC) Bioinformatics Center (BIC) Site Visit](#user-content-stanford-molecular-transducers-of-physical-activity-consortium-motrpac-bioinformatics-center-bic-site-visit)  
 [MoTrPAC Overview](#user-content-motrpac-overview)  
 [Program Lifestage](#user-content-program-lifestage)  
 [Data Platform](#user-content-data-platform)  
@@ -7,8 +7,8 @@ Table of Contents:
 [Sustainability](#user-content-sustainability)  
 [Training](#user-content-training)  
 [FAIR](#user-content-fair)  
-[Cross-pollination](#user-content-crosspollination)  
-[SSO (Single Sign-on)](#user-content-sso-single-signon)  
+[Cross-pollination](#user-content-cross-pollination)  
+[SSO (Single Sign-on)](#user-content-sso-single-sign-on)  
 [Outcomes](#user-content-outcomes)  
 [Agenda](#user-content-agenda)  
   
@@ -44,8 +44,8 @@ Given the early stage of the BIC, their priority has understandably been ensurin
 ### Data Platform
 The flow of data within the BIC is illustrated in Figure 1. When datasets are received, they are first processed using standard pipelines specific to the data type. The data then undergo quality control checks and are integrated with existing datasets via multisite intra- and inter-omic analyses. The next step is to analyze the data both within the dataset, e.g., differential expression and enrichment analyses, and in the context of other datasets in integrative multi-omics analyses. Finally, both raw and analyzed data are shared with internal and external users.  
   
-**Figure 1.** Data flow within the MoTrPAC Bioinformatics Center.
-![data flow chart](https://github.com/nih-cfde/public-website-content/blob/master/images/images/MoTrPAC-fig-1.jpg)  
+**Figure 1.** Data flow within the MoTrPAC Bioinformatics Center.  
+![data flow chart](https://github.com/nih-cfde/public-website-content/blob/master/images/MoTrPAC-fig-1.jpg)  
   
 The data submission process involves MoTrPAC researchers uploading datasets and associated metadata to a Google Cloud bucket. When a dataset is uploaded, BIC analysts receive a notification and the data undergo basic automated QC and completeness checks. BIC analysts then work with the data submitter to resolve any issues, fill in missing information, and get clarification where necessary. The data then enter the process described in Figure 1.  
   
