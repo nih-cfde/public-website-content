@@ -17,4 +17,4 @@ The Common Fund Data Ecosystem Coordinating Center is looking forward to working
 | Review in Bethesda | April 2-3, 2020 | TBD |
 | Award Negotiations Begin | April 6, 2020 | TBD |
 | Awards Announced | On or before May 1, 2020 | On or before August 3, 2020 |
-| Kickoff meeting (mandatory) | May 13-14, 2020 | September 9-10, 2020 |
+| Kickoff meeting (mandatory) | Cancelled | September 9-10, 2020 |
