@@ -16,4 +16,4 @@ On this page you can find a multitude of resources that are important and releva
 
     - <a href="https://www.zenhub.com/extension" target="_blank">Zenhub Browser Extensions</a>
 
-If you need any help during this process, please feel free to (contact us)[mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io]
+If you need any help during this process, please feel free to [contact us](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
