@@ -1,6 +1,4 @@
-# Public website content  
-### To view the current site design with example content, use the [Website Mockups Repo](https://github.com/nih-cfde/public-website-mockups).  
-
+# Public website content    
 ### To add content:
 * Templates for each type of content can be found in the respective content type folder. Duplicate the template and rename it with a descriptive title (ex: a product page about BioJupies should be a duplicate of product-template.md in the products folder and renamed to biojupies.md).  
 * Edit content using Markdown ([Markdown Help](https://github.com/nih-cfde/organization/blob/master/MarkdownHelp.md))  
