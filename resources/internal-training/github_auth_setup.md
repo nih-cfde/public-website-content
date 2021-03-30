@@ -22,17 +22,17 @@ In this tutorial, we will show you how to enable two-factor authentication (opti
 
 ### Step 1: Go to Github account settings
 
-- Click on ==Settings== from the top-right dropdown menu on your Github profile picture.
+- Click on ***Settings*** from the top-right dropdown menu on your Github profile picture.
 
 ### Step 2a: Set up two-factor authentication
 
 While this step is optional, it is a good security measure to protect your account.
 
-- Click on <span style="background-color:yellow">Account security</span>. On this [page](https://github.com/settings/security), scroll past the change password section to the two-factor authentication section.
+- Click on ***Account security***. On this [page](https://github.com/settings/security), scroll past the change password section to the two-factor authentication section.
 
 ![account security tab](https://github.com/nih-cfde/public-website-content/blob/master/resources/internal-training/images-github-auth/0-account-security.png)
 
-- Click <span style="background-color:yellow">Enable two-factor authentication</span>.
+- Click ***Enable two-factor authentication***.
 
 ![enable two factor auth button](https://github.com/nih-cfde/public-website-content/blob/master/resources/internal-training/images-github-auth/1-two-factor-auth.png)
 
@@ -42,31 +42,31 @@ There are two options for receiving the two-factor authentication code.
 
 ![set up phone](https://github.com/nih-cfde/public-website-content/blob/master/resources/internal-training/images-github-auth/2-two-factor-auth-phone-set-up.png)
 
-The recommended method is to receive the code from a phone app, such as Authy, 1Password, or LastPass Authenticator. The Duo Security app also works. For this option, click <span style="background-color:yellow">Set up using an app</span>.
+The recommended method is to receive the code from a phone app, such as Authy, 1Password, or LastPass Authenticator. The Duo Security app also works. For this option, click ***Set up using an app***.
 
 The second option is to receive the code via text message to your phone. This option is only available in certain countries. For detailed steps on this method, see the Github [documentation](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/configuring-two-factor-authentication#configuring-two-factor-authentication-using-text-messages).
 
 ### Step 2c: Save recovery codes
 
-The next page will show a series of recovery codes; you will need these codes to regain access to your account if it is ever lost. Download, print, or copy these codes to a safe place, then click <span style="background-color:yellow">Next</span>.
+The next page will show a series of recovery codes; you will need these codes to regain access to your account if it is ever lost. Download, print, or copy these codes to a safe place, then click ***Next***.
 
 ![save recovery codes](https://github.com/nih-cfde/public-website-content/blob/master/resources/internal-training/images-github-auth/3-save-recovery-codes.png)
 
 ### Step 2d: Enable two-factor authentication
 
-If you chose to set up two-factor authentication with a phone app, open the app and scan the QR code. Enter the six-digit code from the app on Github in the text box below the QR code. After you click <span style="background-color:yellow">Enable</span>, the two-factor authentication set up is complete!
+If you chose to set up two-factor authentication with a phone app, open the app and scan the QR code. Enter the six-digit code from the app on Github in the text box below the QR code. After you click ***Enable***, the two-factor authentication set up is complete!
 
 You can test by logging out of Github and logging back in - the phone app should send you a six-digit code to enter as part of login.
 
 ### Step 3a: Generate a PAT
 
-Navigate to <span style="background-color:yellow">Developer settings</span> located on the left panel of Account settings.
+Navigate to ***Developer settings*** located on the left panel of Account settings.
 
 ![developer settings tab](https://github.com/nih-cfde/public-website-content/blob/master/resources/internal-training/images-github-auth/0-developer-settings.png)
 
-This will take you to a new page, on the left panel, click on <span style="background-color:yellow">Personal access tokens</span>.
+This will take you to a new page, on the left panel, click on ***Personal access tokens***.
 
-Click on <span style="background-color:yellow">Generate new token</span>. Give it a name in the **Note** text box - this can be a nickname to help you remember what the token is for/when it was created.
+Click on ***Generate new token***. Give it a name in the **Note** text box - this can be a nickname to help you remember what the token is for/when it was created.
 
 Scopes enable setting permissions for user access to the various functionality of a repo. To set the scope for your user account, check the box next to **repo** and select all the tasks pertaining to a private repo that apply.
 
@@ -86,7 +86,7 @@ Scopes enable setting permissions for user access to the various functionality o
 >
 > Alternatively, you can use the **[Git Credential Manager Core](https://github.com/microsoft/Git-Credential-Manager-Core)** which is a cross platform git credential helper which will request the correct scopes.
 
-Then scroll down and click <span style="background-color:yellow">Generate token</span>.
+Then scroll down and click ***Generate token***.
 
 > #### Warning
 > 
