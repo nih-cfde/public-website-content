@@ -14,7 +14,7 @@ The cfde-bot was constructed for managing CFDE websites. To edit any of these we
 
 ## General steps for editing CFDE websites with cfde-bots
 
-For the CFDE, the key websites we maintain are built from the following Github repositories: `welcome-to-cfde`, `training-and-engagement`, `use-case-library-build`, and `published-documentation`. *See the [specific steps for editing CFDE websites section](#published-docs) below for instructions on editing the `published-documentation` website.*
+For the CFDE, the key websites we maintain are built from the following Github repositories: `welcome-to-cfde`, `training-and-engagement`, `use-case-library-build`, and `published-documentation`. *See the [specific steps for editing CFDE websites section](#user-content-specific-steps-for-editing-the-cfde-documentation-website) below for instructions on editing the `published-documentation` website.*
 
 The `welcome-to-cfde` and `use-case-library-build` CFDE websites currently have a single PR and review stage to merge changes to the public-facing website. These public-facing websites are rendered from the `stable` or `latest` branch, respectively. The `published-documentation` website involves more layers of PR review - please see [details below](#published-docs).
 
