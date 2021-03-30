@@ -1,6 +1,6 @@
 Protected branches ensure that rules are enforced on any changes made to that branch in a repo. A common branch protection rule is for pull requests (PRs) to be reviewed by at least one other person before they get merged. Protected branches stop you from making unauthorized changes to that branch. However, you can make multiple changes locally or to other non-protected branches. For the local changes to reflect in the protected branch all the set criteria should be met and the changes should be purposefully merged. This type of set up is useful for repositories (repos) that render websites. The branch that hosts the live site can be protected, so that no one can incorporate changes to the site until someone else checks them. That's how we make sure that no one accidentally breaks the websites.
 
-> ### Learning Objectives
+> #### Learning Objectives
 > - learn about protected branches in GitHub
 > - learn to work with newly cloned protected branches in GitHub
 > - learn to work with previously cloned protected branches in GitHub
@@ -8,18 +8,18 @@ Protected branches ensure that rules are enforced on any changes made to that br
 > - learn to preview websites on GitHub branches
 > - learn the basic GitHub workflow
 
-### Est. Time
+#### Est. Time
 
 30 mins
 
-### Prerequisites
+#### Prerequisites
 
 - GitHub account
 - Git installed on your computer
 - Access to a Unix shell
 - Basic command line skills
 
-### Tutorial Resources
+#### Tutorial Resources
 
 Link to practice repo: <https://github.com/nih-cfde/play-with-github>
 
@@ -31,7 +31,7 @@ For the purposes of this tutorial, a practice repo will be used to showcase the 
 git clone https://github.com/nih-cfde/play-with-github.git
 ```
 
-> ### Repo name
+> #### Repo name
 > The example repo is called "play-with-github". You can replace the GitHub URL with any other repo of your choice. The `.git` extension designates a [bare repo](http://www.saintsjd.com/2011/01/what-is-a-bare-git-repository/)
 
 Once you have cloned your repos (now called directories on your local computer) and want to get started, you need to navigate into the newly created directory and work on a [branch](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-branches).
@@ -43,12 +43,12 @@ git branch <name_of_new_branch>
 git checkout <name_of_new_branch>
 ```
 
-> ### Important
+> #### Important
 > It is critical to navigate to the directory in which you wish to make these changes.
 
 The first line of code creates the branch and the second line of code switches your current directory to the new branch. Now if you make changes to the files, the changes will appear as this new branch.
 
-> ### Note
+> #### Note
 > When you change to a new branch, nothing will physically change on your computer. But GitHub will recognize your directory as a new branch.
 
 Once you have made the necessary changes (or any changes at all), you can push changes to GitHub. Here are the basic commands for pushing changes made to a  file:
@@ -71,14 +71,14 @@ git add --all
 git add <filename1> <filename2> <filename3>
 ```
 
-> ### git commit -am
+> #### git commit -am
 > Adding the `-a` flag saves the changes made on tracked files ONLY.
 
 The first line of code adds your changes and the second line of code saves your changes. The last line pushes your changes to the main GitHub repo as a new branch.
 
 Until your [pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) is [merged](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request), you can continue to work on the same branch and push multiple changes. It is not required to create a new branch for ever change. However, after your pull request has been merged and the branch is deleted, any new changes will require to be tracked on a new branch, which incidentally can have the same branch name as previously used.
 
-> ### Important housekeeping notes
+> #### Important housekeeping notes
 > - It is important to keep the workspace clean by deleting abandoned branches and branches that have already been merged. In addition to cluttering the workshop, abandoned branches can cause collisions with new work.
 > - As you work on your branch, we encourage you to continuously push your changes to GitHub. This enables other people with access to the repo to see your active branch. If you have a problem (e.g. a link won't work), a team member(s) could access your branch and help fix the problemprior to the changes being merged.
 
@@ -126,7 +126,7 @@ Now you can make changes locally, add and commit those changes. When you push yo
 
 ## How to preview websites on a GitHub branch
 
-> ### Important
+> #### Important
 > You will require admin privileges on www.readthedocs.com for previewing website changes from a GitHub repo.
 
 This tutorial applies to GitHub repos that render as websites. As described above, your changes to the website repo must be pushed to a new branch. Before merge, the master branch has NOT been updated yet, and so you cannot view the changes on the actual website. 
@@ -143,7 +143,7 @@ This is stepwise guide to previewing changes to a website on a GitHub pull reque
 git push origin <my branch>:preview
 ```
 
-> ### git --force option
+> #### git --force option
 > If you are pushing a really large change (like revamping a website), you may want to use `preview -f`. The `-f | --force` option tells git to make the change regardless of the history of changes. Since this gives the branch a new starting point for its version tracking, please *ONLY* use it on the preview branch. For most edits, you want to preserve the version history so you do NOT need this option.
 
 (4) Click on the preview branch in readthedocs. This should take you to the website. Copy and paste the link on your GitHub PR.
