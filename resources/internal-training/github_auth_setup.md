@@ -6,19 +6,19 @@ In this tutorial, we will show you how to enable two-factor authentication (opti
 > - learn how to set up two-factor authentication
 > - learn how to set up a personal access token
 
-> #### Est. Time
-> 30 mins
+#### Est. Time
+30 mins
 
-> #### Prerequisites
-> - GitHub account
-> - Git installed on your computer
-> - Access to a Unix shell
-> - Basic command line skills
+#### Prerequisites
+- GitHub account
+- Git installed on your computer
+- Access to a Unix shell
+- Basic command line skills
 
-> #### Tutorial Resources
-> - [Github documentation on two-factor authentication](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/configuring-two-factor-authentication)
-> - [Github documentation on personal access token](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token)
-> - [Github documentation on updating credentials](https://docs.github.com/en/free-pro-team@latest/github/using-git/updating-credentials-from-the-macos-keychain)
+#### Tutorial Resources
+- [Github documentation on two-factor authentication](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/configuring-two-factor-authentication)
+- [Github documentation on personal access token](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token)
+- [Github documentation on updating credentials](https://docs.github.com/en/free-pro-team@latest/github/using-git/updating-credentials-from-the-macos-keychain)
 
 ### Step 1: Go to Github account settings
 
