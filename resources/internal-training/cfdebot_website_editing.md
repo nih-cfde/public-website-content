@@ -1,19 +1,16 @@
-# Editing MkDocs Websites with cfde-bot
-
 This is a tutorial on how to edit MkDocs websites from Github repos that use the cfde-bot robot. The cfde-bot handles changes in each website GitHub repo to check  edits and most importantly, prevent changes that could break the website.
 
-!!! note "Learning Objectives"
+> #### Learning Objectives
+> - learn how to edit Mkdocs website documents on Github using the cfde-bot
+> - learn how to edit documents from sub-module repositories
 
-    - learn how to edit Mkdocs website documents on Github using the cfde-bot
-    - learn how to edit documents from sub-module repositories
+#### Est. Time
 
-=== "Est. Time"
+~20 mins (depending on the website, it may take longer for all the bot's checks to complete)
 
-    ~20 mins (depending on the website, it may take longer for all the bot's checks to complete)
+#### Prerequisites
 
-=== "Prerequisites"
-
-    The cfde-bot was constructed for managing CFDE websites. To edit any of these websites, you must be onboarded to the CFDE to gain access to the nih-cfde Github repo files.
+The cfde-bot was constructed for managing CFDE websites. To edit any of these websites, you must be onboarded to the CFDE to gain access to the nih-cfde Github repo files.
 
 ## General steps for editing CFDE websites with cfde-bots
 
@@ -31,9 +28,9 @@ In this tutorial, we lay out the general steps for the single stage PR process.
 
 Say you want to edit a CFDE website that merges changes from the `stable` branch.
 
-If working from Github, type a new branch name (e.g., `my_branch`) in the `Branch:stable` dropdown button and hit ++enter++. The new branch should be created with the `stable` branch as its base.
+If working from Github, type a new branch name (e.g., `my_branch`) in the `Branch:stable` dropdown button and hit `enter`. The new branch should be created with the `stable` branch as its base.
 
-![](./images-cfdebot/github-branch-stable.png "create new github branch")
+![create new github branch](https://github.com/nih-cfde/public-website-content/blob/master/resources/internal-training/images-cfdebot/github-branch-stable.png)
 
 ### Step 3: Make edits
 
@@ -61,7 +58,7 @@ If you are satisfied with the edits, request reviewers to check, request changes
 
 When the PR has been approved, click "Merge pull request" and confirm merge. Be sure to delete your branch. Your edits should now be viewable on the public-facing website!
 
-## Specific steps for editing the CFDE documentation website <a name="published-docs"></a>
+## Specific steps for editing the CFDE documentation website
 
 The website created by the `published-documentation` repo pulls some docs that are in its repo AND some from two sub-module repositories (`the-fair-cookbook` and `specifications-and-documentation`). There are two ways to make changes to this website that are detailed in the repo's [README](https://github.com/nih-cfde/published-documentation/blob/dev/README.md) documentation. The steps are summarized below:
 
