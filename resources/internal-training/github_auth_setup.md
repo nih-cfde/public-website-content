@@ -22,7 +22,7 @@ In this tutorial, we will show you how to enable two-factor authentication (opti
 
 ### Step 1: Go to Github account settings
 
-- Click on <span style="background-color:yellow">Settings</span> from the top-right dropdown menu on your Github profile picture.
+- Click on ==Settings== from the top-right dropdown menu on your Github profile picture.
 
 ### Step 2a: Set up two-factor authentication
 
