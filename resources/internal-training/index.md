@@ -2,14 +2,14 @@ This section lists tutorials for working in GitHub, the preferred project manage
 
 CFDE-Coordination Center:
 
-   - [Editing MkDocs Websites with cfde-bot](cfdebot_website_editing.md)
+   - [Editing MkDocs Websites with cfde-bot](https://www.nih-cfde.org/resource/editing-mkdocs-websites/)
 
 
 Common Fund Programs
 
-   - [Identifying MIME Types](./MIME-type/index.md)
+   - [Identifying MIME Types](https://www.nih-cfde.org/resource/mime-type-overview)
 
 GitHub:
 
-   - [Working with Protected Branches](ProtectedBranch_HowTo.md)
-   - [Setting up Github authentication](github_auth_setup.md)
+   - [Working with Protected Branches](https://www.nih-cfde.org/resource/working-with-protected-branches/)
+   - [Setting up Github authentication](https://www.nih-cfde.org/resource/setting-up-github-authentication/)
