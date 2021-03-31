@@ -3,33 +3,28 @@ The default option that requires **no installation** would be to use the `file` 
 ![file command line](https://github.com/nih-cfde/public-website-content/blob/master/resources/internal-training/MIME-type/images/file-screencast.png)
 
 #### Usage
-
-    ```
-    file --mime-type <name of the file>
-    ```
+```
+file --mime-type <name of the file>
+```
 
 #### Input
-
-    ```
-    file --mime-type 6285633006_R03C01_Red.idat
-    ```
+```
+file --mime-type 6285633006_R03C01_Red.idat
+```
 
 #### Expected Output
-
-    ```
-    6285633006_R03C01_Red.idat: application/octet-stream
-    ```
+```
+6285633006_R03C01_Red.idat: application/octet-stream
+```
 
 Adding the `-b` flag returns only the MIME type for the selected file without the filename.
 
 #### Input
-
-    ```
-    file --mime-type -b 9969477031_R02C01_Red.idat
-    ```
+```
+file --mime-type -b 9969477031_R02C01_Red.idat
+```
 
 #### Expected Output
-
-    ```
-    application/octet-stream
-    ```
+```
+application/octet-stream
+```
