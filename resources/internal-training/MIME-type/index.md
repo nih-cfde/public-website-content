@@ -13,7 +13,7 @@ Est. Time | Lesson name | Description
 
 > #### Learning Objectives
 > In this tutorial you will learn:
-
+>
 > - how to determine MIME type for single and multiple files
 > - about different utilities for MIME type identification
 > - how to create custom MIME types
