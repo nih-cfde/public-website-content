@@ -1,15 +1,6 @@
----
-layout: page
-title: Example Data Files
----
-
-Example Data Files
-===================
-
 For this tutorial there are two options to obtain the example files. You can either use example files compiled using open access data from multiple repositories or use open access data from Kids First, a Common Fund program.
 
-General Example Files
------------------------
+## General Example Files
 Download the compressed data and extract to view the files.
 
 ```
@@ -37,21 +28,19 @@ The directory structure of the resulting `example_files_MIME`:
 └── wgEncodeUwRepliSeqBg02esS3PctSignalRep1.bigWig
 ```
 
-Kids First Files
-------------------
-
+## Kids First Files
 For this tutorial, you can also use open access files from the [Kids First Data Portal](https://kidsfirstdrc.org) (KF Data Portal).
 
-!!! note "KF Data Portal Login"
-    Downloading the files requires an account on the [KF data portal](https://kidsfirstdrc.org). You can choose one of three available options (Google, ORCID, Facebook) to setup an account, although we recommend using ORCID if you have one. For more details can be found on the [Registration tutorial for Kids First](../../Bioinformatics-Skills/Kids-First/Portal-Setup-And-Permissions/KF_3_KF_Registration.md).
+> #### KF Data Portal Login
+> Downloading the files requires an account on the [KF data portal](https://kidsfirstdrc.org). You can choose one of three available options (Google, ORCID, Facebook) to setup an account, although we recommend using ORCID if you have one. For more details can be found on the [Registration tutorial for Kids First](https://training.nih-cfde.org/en/latest/Bioinformatics-Skills/Kids-First/Portal-Setup-And-Permissions/KF_3_KF_Registration/).
 
-Download the [KF_File_ID.csv](./mime_supplementary_files/KF_File_ID.csv). Login to [Kids First Data Portal](https://kidsfirstdrc.org), select `File Repository` and `File Filters`. Scroll all the way down to `Search by File ID` field and click on `upload your list of ids`.
+Download the [KF_File_ID.csv](https://github.com/nih-cfde/public-website-content/blob/master/resources/internal-training/MIME-type/mime_supplementary_files/KF_File_ID.csv). Login to [Kids First Data Portal](https://kidsfirstdrc.org), select `File Repository` and `File Filters`. Scroll all the way down to `Search by File ID` field and click on `upload your list of ids`.
 
-![Search by File ID](./images/KFDRC_search_by_file_ID.png "Search by File ID")
+![Search by File ID](https://github.com/nih-cfde/public-website-content/blob/master/resources/internal-training/MIME-type/images/KFDRC_search_by_file_ID.png)
 
 One can either copy paste the File IDs in the box or upload the KF_File_ID.csv. To obtain a local copy, select `View Results` and for each individual file click on download button under the `Actions` column.
 
-![File ID upload](./images/KFDRC_file_ID_upload.png "File ID upload")
+![File ID upload](https://github.com/nih-cfde/public-website-content/blob/master/resources/internal-training/MIME-type/images/KFDRC_file_ID_upload.png)
 
 The directory structure of `KF_data` with all the files should include:
 
