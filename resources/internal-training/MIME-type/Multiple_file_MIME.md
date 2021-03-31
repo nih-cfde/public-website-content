@@ -1,11 +1,3 @@
----
-layout: page
-title: Multi File MIME type
----
-
-MIME type of many files
-========================
-
 To obtain MIME type for multiple files, we can script the utility commands in a for loop. As an example, here is one possible script using the `xdg-mime` command to obtain the MIME type for each file and store the results as a tab-separated-values file.
 
 ```
@@ -15,17 +7,17 @@ for file in {.,}*; do      # For all files in the current directory with all the
 done
 ```
 
-![MIME types table](./images/MIME_type_example_files.png "MIME types table")
+![MIME types table](https://github.com/nih-cfde/public-website-content/blob/master/resources/internal-training/MIME-type/images/MIME_type_example_files.png)
 
 Siegfried has a built-in option to obtain the file format information for files in a directory.
 
-=== "Usage"
+#### Usage
 
     ```
      sf <path to the directory>
     ```
 
-=== "Input"
+#### Input
 
     ```
     # Example code combined with other flags
