@@ -2,14 +2,14 @@ A MIME type or media type is a form of identification for file formats and conte
 
 Est. Time | Lesson name | Description
 --- | --- | ---
-5 mins | [Introduction](https://www.nih-cfde.org/resource/intro-mime-type.md) | What is a MIME type ?
-15 mins | [Example Data](https://www.nih-cfde.org/resource/example-data-files.md) | Obtain general or CF specific data files
-5 mins | [file](https://www.nih-cfde.org/resource/file.md) | MIME type using file
-10 mins | [mimetype](https://www.nih-cfde.org/resource/mimetype.md) | MIME type using mimetype
-10 mins | [xdg-utils](https://www.nih-cfde.org/resource/xdg-utils.md) | MIME type using xdg-utils
-15 mins | [Siegfried](https://www.nih-cfde.org/resource/siegfried.md) | MIME type using Siegfried
-5 mins  | [Multi File MIME type ](https://www.nih-cfde.org/resource/multiple-file-mime.md) | MIME type for multiple files
-10 mins | [Unexpected Behavior](https://www.nih-cfde.org/resource/unexpected-behavior.md) | Understand and validate MIME type
+5 mins | [Introduction](https://www.nih-cfde.org/resource/intro-mime-type) | What is a MIME type ?
+15 mins | [Example Data](https://www.nih-cfde.org/resource/example-data-files) | Obtain general or CF specific data files
+5 mins | [file](https://www.nih-cfde.org/resource/file) | MIME type using file
+10 mins | [mimetype](https://www.nih-cfde.org/resource/mimetype) | MIME type using mimetype
+10 mins | [xdg-utils](https://www.nih-cfde.org/resource/xdg-utils) | MIME type using xdg-utils
+15 mins | [Siegfried](https://www.nih-cfde.org/resource/siegfried) | MIME type using Siegfried
+5 mins  | [Multi File MIME type ](https://www.nih-cfde.org/resource/multiple-file-mime) | MIME type for multiple files
+10 mins | [Unexpected Behavior](https://www.nih-cfde.org/resource/unexpected-behavior) | Understand and validate MIME type
 
 > #### Learning Objectives
 > In this tutorial you will learn:
@@ -25,7 +25,7 @@ This tutorial is written for a Unix/Linux compute environment (e.g. HPC, binder,
 
 #### Tutorial Resources
 Screencasts:
-- [file](https://www.nih-cfde.org/resource/file.md)
-- [mimetype](https://www.nih-cfde.org/resource/mimetype.md)
-- [xdg-utils](https://www.nih-cfde.org/resource/xdg-utils.md)
-- [siegfried](https://www.nih-cfde.org/resource/siegfried.md)
+- [file](https://www.nih-cfde.org/resource/file)
+- [mimetype](https://www.nih-cfde.org/resource/mimetype)
+- [xdg-utils](https://www.nih-cfde.org/resource/xdg-utils)
+- [siegfried](https://www.nih-cfde.org/resource/siegfried)
