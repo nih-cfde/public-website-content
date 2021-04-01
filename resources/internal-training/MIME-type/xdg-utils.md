@@ -1,8 +1,5 @@
 The [xdg-utils](https://www.freedesktop.org/wiki/Software/xdg-utils/) package consists of set of tools to allow for easy integration with the desktop environment and also offers options for modifying and adding new MIME types.
 
-![xdg-utils command line](https://github.com/nih-cfde/public-website-content/blob/master/resources/internal-training/MIME-type/images/xdg-utils-screencast.png)
-
-
 #### Installation
 ```
 sudo apt update -y
