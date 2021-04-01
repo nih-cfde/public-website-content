@@ -21,11 +21,3 @@ Est. Time | Lesson name | Description
 
 #### Prerequisites
 This tutorial is written for a Unix/Linux compute environment (e.g. HPC, binder, cloud platforms like AWS, XSEDE etc). **The code included in the tutorial will not work on MacOS/X.** Some of the commands require super user privileges or permissions to use `sudo`.
-
-
-#### Tutorial Resources
-Screencasts:
-- [file](https://www.nih-cfde.org/resource/file)
-- [mimetype](https://www.nih-cfde.org/resource/mimetype)
-- [xdg-utils](https://www.nih-cfde.org/resource/xdg-utils)
-- [siegfried](https://www.nih-cfde.org/resource/siegfried)
