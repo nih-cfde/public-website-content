@@ -1,7 +1,5 @@
 The [`mimetype` utility](http://manpages.ubuntu.com/manpages/trusty/man1/mimetype.1p.html) closely follows the `file` command but uses MIME types instead of descriptions. It uses the shared MIME-info database and allows for options to add custom MIME types.
 
-![mimetype command line](https://github.com/nih-cfde/public-website-content/blob/master/resources/internal-training/MIME-type/images/mimetype-screencast.png)
-
 #### Installation
 ```
 sudo apt install libfile-mimeinfo-perl
