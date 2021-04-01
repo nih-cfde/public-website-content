@@ -1,7 +1,5 @@
 The default option that requires **no installation** would be to use the `file` command. For our code example we will work with files from the [General Example Files](https://www.nih-cfde.org/resource/Example_data_files.md).
 
-![file command line](https://github.com/nih-cfde/public-website-content/blob/master/resources/internal-training/MIME-type/images/file-screencast.png)
-
 #### Usage
 ```
 file --mime-type <name of the file>
