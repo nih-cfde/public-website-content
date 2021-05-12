@@ -1,8 +1,8 @@
-##### Biospecimen
+##### Biosample
 A material asset, collected from an organism, a cell culture, or a material containing organisms, such as an environmental material. 
 
 ##### C2M2
-Cross Cut Metadata Model. How we describe the interrelationships of metadata terms. It specifes both the metadata terms and how those terms are semantically related to all the other terms in the model. For example, we specify that each Biospecimen must come from a Subject.
+Crosscut Metadata Model. How we describe the interrelationships of metadata terms. It specifes both the metadata terms and how those terms are semantically related to all the other terms in the model. For example, we specify that each Biosample must come from a Subject.
 
 ##### CFDE Asset Manifest
 A collection of *Assets* described by the *CFDE Asset Specification*. The ecosystem will support the concept of a manifest that describes a collection of files. The manifests enable bundling lists of CFDE data assets into a machine-readable file using a common format. Manifests will also be used to publish the complete inventories of data from each DCC, and will enable uniform collection of asset metadata to support indexing of the assets in the CFDE portal.
