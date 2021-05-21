@@ -31,8 +31,5 @@ A type of information entity usually defined as data about the data, understood 
 ##### Metadata Ingest
 Assigning identifiers to the objects and then extracting or creating metadata for these objects.
 
-##### Richness Levels
-A qualifier indicative of the depth and granularity of an object model or Entity Relationship Model. In the context of CFDE, the C2M2 model is described by the following increasing richness levels: [Level-0, Level-1, Level-2]
-
 ##### Subject
 A study participant (human, animal) from which samples may be obtained.
