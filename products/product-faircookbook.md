@@ -6,7 +6,7 @@ The FAIR principles are a set of guidelines for making digital objects, like dat
 
 ## What is the FAIR cookbook?
 
-The [FAIR cookbook](https://cfde-published-documentation.readthedocs-hosted.com/en/latest/the-fair-cookbook/content/intro/) is a one-stop guide describing how to meet the FAIR principles based on community-accepted standards for common CFDE tasks. The cookbook contains chapters detailing these standards, as well as a system for assessing digital objects according to FAIR principles.
+The [FAIR cookbook](https://docs.nih-cfde.org/en/latest/the-fair-cookbook/intro/) is a one-stop guide describing how to meet the FAIR principles based on community-accepted standards for common CFDE tasks. The cookbook contains chapters detailing these standards, as well as a system for assessing digital objects according to FAIR principles.
 
 The FAIR cookbook will advance biomedical research by centralizing FAIR-related resources and detailed tutorials for integrating and assessing Common Fund Program data and tools. To foster this growing hub of information, programs are encouraged to share their experience with the community by [contributing](https://docs.nih-cfde.org/en/latest/the-fair-cookbook/content/recipes/Governance/contributing/) feedback and documentation [recipes](https://github.com/nih-cfde/the-fair-cookbook/blob/dev/content/recipes/01/fair-cfde.md). 
 
