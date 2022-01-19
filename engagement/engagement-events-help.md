@@ -6,6 +6,9 @@ In the effort to encourage FAIR (findable, accessible, interoperable, and resusa
 - CFDE Anatomy Working Group (cAWG) [groups.io mailing list](https://cfdepublic.groups.io/g/AnatomyWorkingGroup)
 - Ontology Working Group [CFDE Slack channel](https://cfdeworkspace.slack.com/archives/C01GP14DLJX) and [groups.io mailing list](https://cfdepublic.groups.io/g/OntologyWorkingGroup)
 - Gene Working Group [groups.io mailing list](https://cfdepublic.groups.io/g/GeneWorkingGroup)
+- Gene Expression Data Exchange Group [groups.io mailing list](https://cfdepublic.groups.io/g/GeneExpressionDataExchange)
+- PEET (Prototyping and Evaluation of Engineering Technology) [groups.io mailing list](https://cfdepublic.groups.io/g/PEETWorkingGroup)
+- Variang Working Group [groups.io mailing list](https://cfdepublic.groups.io/g/VariantWorkingGroup)
 
 ## CFDE Helpdesks
 The CFDE maintains two help desks. Please email <training@cfde.atlassian.net> for questions related to the training website, tutorials, or workshops. Please email <support@cfde.atlassian.net> for questions related to the CFDE, C2M2, or CFDE portal.
