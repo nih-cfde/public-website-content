@@ -1,5 +1,10 @@
 ### News & Events
-<p>Beta release of the data portal to the public 4/1/21</p>
-<p><a href="https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit#gid=1089477257/">Fall 2020 Cross Pollination Series starts 9/29/2020. Click for more info.</a>.</p>
-<p>Alpha release of data portal to our partner programs in Nov 2020.</p>
-<p>The NIH Common Fund has switched to rolling submission of Engagement Plans, effective May 2020. More information available on the <a href="https://www.nih-cfde.org/engagement/">Engagement page</a>.</p>
+
+Regular **[Cross-Pollination Events](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing)** take place on the first Tuesday of every month. 
+
+The **[All-Hands Meeting](https://nih-cfde.github.io/2022-june-all-hands-meeting/)** is June 9 & 10, 2022. 
+
+The next **data submission deadline for the CFDE Portal** will be June 15, 2022. All groups who would like to update their data must submit and approve it by this deadline. If you would not like to update or submit new data, no action is required on your part. 
+
+The CFDE-CC will be hosting two **[Content Generation Sprints](https://nih-cfde.github.io/2022-content-generation-sprints/)** in July and August. The purpose of these sprints is to produce annotations for genes, anatomy terms, compounds, and diseases in the CFDE Search Portal. 
+
