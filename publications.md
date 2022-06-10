@@ -4,7 +4,7 @@ Evangelista _et al._ 2022 [SigCom LINCS: data and metadata search engine for a m
 
 Clarke _et al._ 2022 [Gene and drug landing page aggregator](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8969666/)
 
-Creasy _et al._ 2021 [HMPDACC: a Human Microbiome Project Multi-omic data resource]()
+Creasy _et al._ 2021 [HMPDACC: a Human Microbiome Project Multi-omic data resource](https://academic.oup.com/nar/article/49/D1/D734/6030231)
 
 Charbonneau _et al._ 2021 [Making Common Fund data more findable: Catalyzing a Data Ecosystem](https://www.biorxiv.org/content/10.1101/2021.11.05.467504v2)
 
