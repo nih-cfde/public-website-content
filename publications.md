@@ -17,4 +17,4 @@ Ananthakrishnan _et al._ 2020 [An Open Ecosystem for Pervasive Use of Persistent
 
 Clarke _et al._ 2019 [FAIRshake: Toolkit to Evaluate the FAIRness of Research Digital Resources](https://www.sciencedirect.com/science/article/abs/pii/S240547121930345X)
 
-Wilkinson _et al._ 2019 [Evaluating FAIR maturity through a scalable, automated, community-governed framework]()
+Wilkinson _et al._ 2019 [Evaluating FAIR maturity through a scalable, automated, community-governed framework](https://www.nature.com/articles/s41597-019-0184-5)
