@@ -10,6 +10,6 @@ The **[All-Hands Meeting](https://nih-cfde.github.io/2022-june-all-hands-meeting
 
 Regular **[Cross-Pollination Events](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing)** take place on the first Tuesday of every month. 
 
-The next **data submission deadline for the CFDE Portal** will be June 21, 2022. All groups who would like to update their data must submit and approve it by this deadline. If you would not like to update or submit new data, no action is required on your part. 
+The next **data submission deadline for the CFDE Portal** will be June 24, 2022. All groups who would like to update their data must submit and approve it by this deadline. If you would not like to update or submit new data, no action is required on your part. 
 
-The CFDE-CC will be hosting two **[Content Generation Sprints](https://nih-cfde.github.io/2022-content-generation-sprints/)** in July and August. The purpose of these sprints is to produce annotations for genes, anatomy terms, compounds, and diseases in the CFDE Search Portal. 
+The CFDE-CC will be hosting two **[Content Generation Sprints](https://nih-cfde.github.io/2022-content-generation-sprints/)** the weeks of June 27 - July 1 and August 8 - 12, 2022. The purpose of these sprints is to produce annotations for genes, anatomy terms, compounds, and diseases in the CFDE Search Portal. Email support [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net) if you would like to participate.  
