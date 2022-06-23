@@ -12,6 +12,10 @@
 	name: Extracellular RNA Communication
 	github: https://github.com/BRL-BCM/exrna_atlas	
 	portal: https://exrna.org/resources/data/
+- GlyGen
+	name: Glycosciences
+	github: https://github.com/glygener	
+	portal: https://www.glygen.org/
 - GTEx	
 	name: Genotype-Tissue Expression Project
 	github: https://github.com/broadinstitute/gtex-pipeline	
