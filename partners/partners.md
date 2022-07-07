@@ -27,7 +27,7 @@ The **Genotype-Tissue Expression (GTEx)** project is an ongoing effort to build 
 
 The **Human BioMolecular Atlas Program (HuBMAP)** is committed to developing the next generation of molecular analysis technologies, computational tools, and to generate foundational tissue maps in order to accelerate the construction of an atlas of the human body for the understanding the relationship between tissue organization and function. HuBMAP values secure, open sharing, and collaboration with the wider research community.
 
-# [Gabriella Miller Kids First Pediatric Research Program](https://portal.kidsfirstdrc.org/dashboard)
+## [Gabriella Miller Kids First Pediatric Research Program](https://portal.kidsfirstdrc.org/dashboard)
 
 The **Gabriella Miller Kids First Data Resource Center** enables researchers, clinicians, and patients to work together to accelerate research and promote new discoveries for children affected with cancer and structural birth defects. Data from over 11,000 samples, including DNA and RNA, is available to empower your research today. Data collected from more than 30,000 samples are expected to be available in the next few years.
 
