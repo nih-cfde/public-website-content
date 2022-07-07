@@ -25,7 +25,7 @@
 	github: https://github.com/ihmpdcc	
 	portal: https://hmpdacc.org/
 - HuBMAP	
-	name: Human Microbiome Project
+	name: Human BioMolecular Atlas Program
 	github: https://github.com/hubmapconsortium	
 	portal: https://portal.hubmapconsortium.org/
 - Kids First	
@@ -35,7 +35,7 @@
 - LINCS	
 	name: Library of Integrated Network-based Cellular Signatures
 	github: https://github.com/MaayanLab/lincs-dcic	
-	portal: http://dev3.ccs.miami.edu:8080/signatures/home
+	portal: http://lincsportal.ccs.miami.edu/dcic-portal/
 - Metabolomics	
 	name: Metabolomics
 	github: https://github.com/metabolomicsworkbench	
