@@ -1,2 +1,2 @@
-## [Extracellular RNA Communication](https://exrna.org/resources/data/)
+## [Extracellular RNA Communication (ExRNA)](https://exrna.org/resources/data/)
 

@@ -11,7 +11,7 @@ The goal of the **4D Nucleome (4DN)** program is to study the three-dimensional 
 
 
 
-## [Extracellular RNA Communication](https://exrna.org/resources/data/)
+## [Extracellular RNA Communication (ExRNA)](https://exrna.org/resources/data/)
 
 
 
@@ -27,7 +27,7 @@ The **Genotype-Tissue Expression (GTEx)** project is an ongoing effort to build 
 
 The **Human BioMolecular Atlas Program (HuBMAP)** is committed to developing the next generation of molecular analysis technologies, computational tools, and to generate foundational tissue maps in order to accelerate the construction of an atlas of the human body for the understanding the relationship between tissue organization and function. HuBMAP values secure, open sharing, and collaboration with the wider research community.
 
-## [Gabriella Miller Kids First Pediatric Research Program](https://portal.kidsfirstdrc.org/dashboard)
+## [Gabriella Miller Kids First Pediatric Research Program (KidsFirst)](https://portal.kidsfirstdrc.org/dashboard)
 
 The **Gabriella Miller Kids First Data Resource Center** enables researchers, clinicians, and patients to work together to accelerate research and promote new discoveries for children affected with cancer and structural birth defects. Data from over 11,000 samples, including DNA and RNA, is available to empower your research today. Data collected from more than 30,000 samples are expected to be available in the next few years.
 
@@ -43,15 +43,15 @@ The goal of the **Metabolomics** program is to inform basic, translational, and 
 
 **Molecular Transducers of Physical Activity Consortium (MoTrPAC)** is a national research consortium designed to discover and perform preliminary characterization of the range of molecular transducers (the "molecular map") that underlie the effects of physical activity in humans. The program's goal is to study the molecular changes that occur during and after exercise and ultimately to advance the understanding of how physical activity improves and preserves health.
 
-## [Stimulating Peripheral Activity to Relieve Conditions](https://sparc.science/)
+## [Stimulating Peripheral Activity to Relieve Conditions (SPARC)](https://sparc.science/)
 
 The **Stimulating Peripheral Activity to Relieve Conditions (SPARC)** program aims to transform our understanding of nerve-organ interactions with the intent of advancing bioelectronic medicine towards treatments that change lives.
 
-## [Human Microbiome Project](https://hmpdacc.org/)
+## [Integrative Human Microbiome Project (iHMP)](https://hmpdacc.org/)
 
-The overall mission of the **Human Microbiome Project** is to generate resources to facilitate characterization of the human microbiota to further our understanding of how the microbiome impacts human health and disease. In the second phase of the HMP, the iHMP will create integrated longitudinal datasets from the microbiome and host from three different cohort studies of microbiome-associated conditions using multiple ‘omics technologies.
+The overall mission of the **Integrative Human Microbiome Project** is to generate resources to facilitate characterization of the human microbiota to further our understanding of how the microbiome impacts human health and disease. In the second phase of the HMP, the iHMP will create integrated longitudinal datasets from the microbiome and host from three different cohort studies of microbiome-associated conditions using multiple ‘omics technologies.
 
-# [Knockout Mouse Phenotyping(KOMP)](https://www.mousephenotype.org/understand/the-data/)
+## [Knockout Mouse Phenotyping (KOMP)](https://www.mousephenotype.org/understand/the-data/)
 
 
 
