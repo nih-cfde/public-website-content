@@ -1,2 +1,3 @@
-## Data Coordinating Centers
-Fusce eget quam risus. Praesent porttitor, ipsum eu euismod bibendum, dolor arcu ultrices purus, eu tristique metus massa vitae mauris. Maecenas lobortis at odio aliquam cursus. Vestibulum et egestas lacus. Sed faucibus tincidunt sapien, vehicula tincidunt dui porttitor nec. Curabitur a cursus arcu. Donec at erat sagittis eros viverra volutpat sed et velit. Donec bibendum efficitur lorem ac dignissim.
+# Partners with the Common Fund Data Ecosystem (CFDE)
+
+The CFDE Coordinating Center oversees CFDE activities and works closely with participating data coordinating centers from other Common Fund Programs (or partners) on an initial subset of data sets, with plans to expand to additional CF data sets in the future. The CFDE portal is also developing and deploying a number of resources and tools, including training materials, to empower the research community to use CF data sets for novel scientific research that was not possible before. This may include hypothesis generation, discovery, or validation that leads to new insights in health and disease.

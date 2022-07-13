@@ -1,1 +1,3 @@
-**SPARC (the Scholarly Publishing and Academic Resources Coalition)** works to enable the open sharing of research outputs and educational materials in order to democratize access to knowledge, accelerate discovery, and increase the return on our investment in research and education. SPARC focuses on collaborating with other stakeholders to build on the opportunities created by the Internet, promoting changes to both infrastructure and culture needed to make open the default for research and education.
+## [Stimulating Peripheral Activity to Relieve Conditions (SPARC)](https://sparc.science/)
+
+The **Stimulating Peripheral Activity to Relieve Conditions (SPARC)** program aims to transform our understanding of nerve-organ interactions with the intent of advancing bioelectronic medicine towards treatments that change lives.

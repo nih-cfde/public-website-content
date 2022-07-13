@@ -1,0 +1,63 @@
+# Data Portals and GitHub Repositories of Common Fund Programs 
+
+- 4DN
+	name: 4D Nucleome
+	github: https://github.com/4dn-dcic	
+	portal: https://data.4dnucleome.org/
+- A2CPS		
+	name: Acute to Chronic Pain Signatures
+	github:
+	portal: https://a2cps.org/
+- Ex-RNA	
+	name: Extracellular RNA Communication
+	github: https://github.com/BRL-BCM/exrna_atlas	
+	portal: https://exrna.org/resources/data/
+- GlyGen
+	name: Glycosciences
+	github: https://github.com/glygener	
+	portal: https://www.glygen.org/
+- GTEx	
+	name: Genotype-Tissue Expression Project
+	github: https://github.com/broadinstitute/gtex-pipeline	
+	portal: http://www.gtexportal.org/home/
+- HMP	
+	name: Integrative Human Microbiome Project
+	github: https://github.com/ihmpdcc	
+	portal: https://hmpdacc.org/
+- HuBMAP	
+	name: Human BioMolecular Atlas Program
+	github: https://github.com/hubmapconsortium	
+	portal: https://portal.hubmapconsortium.org/
+- Kids First	
+	name: Gabriella Miller Kids First Pediatric Research Program
+	github: https://github.com/kids-first	
+	portal: https://portal.kidsfirstdrc.org/dashboard
+- LINCS	
+	name: Library of Integrated Network-based Cellular Signatures
+	github: https://github.com/MaayanLab/lincs-dcic	
+	portal: http://lincsportal.ccs.miami.edu/dcic-portal/
+- Metabolomics	
+	name: Metabolomics
+	github: https://github.com/metabolomicsworkbench	
+	portal: http://www.metabolomicsworkbench.org/
+- MoTrPAC	
+	name: Molecular Transducers of Physical Activity in Humans
+	github: https://github.com/MoTrPAC	
+	portal: https://motrpac-data.org/
+- SPARC	
+	name: Stimulating Peripheral Activity to Relieve Conditions
+	github: https://github.com/nih-sparc	
+	portal: https://sparc.science/
+- IDG	
+	name: Illuminating the Druggable Genome
+	github: https://github.com/druggablegenome	
+	portal: https://druggablegenome.net/IDGResourceTables
+- KOMP	
+	name: Knockout Mouse Phenotyping
+	github:	
+	portal: https://www.mousephenotype.org/understand/the-data/
+- UDN	
+	name: Undiagnosed Diseases Network 
+	github: https://github.com/dib-lab/cfde/issues/23	
+	portal: https://undiagnosed.hms.harvard.edu/about-us/
+	
