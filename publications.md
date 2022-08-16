@@ -1,6 +1,12 @@
 ### Publications
 
+Zhuorui _et al._ 2022 [Getting Started with LINCS Datasets and Tools](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.487)
+
 Evangelista _et al._ 2022 [SigCom LINCS: data and metadata search engine for a million gene expression signatures](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac328/6582159?login=false)
+
+Kropiwnicki _et al._ 2022 [Getting Started with the IDG KMC Datasets and Tools](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.355)
+
+Getting Started with the IDG KMC Datasets and Tools
 
 Clarke _et al._ 2022 [Gene and drug landing page aggregator](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8969666/)
 
