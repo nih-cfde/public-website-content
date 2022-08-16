@@ -6,8 +6,6 @@ Evangelista _et al._ 2022 [SigCom LINCS: data and metadata search engine for a m
 
 Kropiwnicki _et al._ 2022 [Getting Started with the IDG KMC Datasets and Tools](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.355)
 
-Getting Started with the IDG KMC Datasets and Tools
-
 Clarke _et al._ 2022 [Gene and drug landing page aggregator](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8969666/)
 
 Creasy _et al._ 2021 [HMPDACC: a Human Microbiome Project Multi-omic data resource](https://academic.oup.com/nar/article/49/D1/D734/6030231)
