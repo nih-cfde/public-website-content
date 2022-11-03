@@ -10,4 +10,4 @@ Partnership projects pursued by the CFDE Data Coordinating Centers (DCCs) and th
 
 Regular **[Cross-Pollination Events](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing)** take place on the first Tuesday of every month. 
 
-The next **data submission deadline for the CFDE Portal** will be September 15, 2022. All groups who would like to update their data must submit and approve it by this deadline. If you would not like to update or submit new data, no action is required on your part. 
+The next **data submission window for the CFDE Portal** is December 1, 2022 through January 9, 2023. All groups wishing to update their data or submit new data must submit and approve it during this window. 
