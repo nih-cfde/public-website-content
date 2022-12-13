@@ -1,5 +1,7 @@
 ### Publications
 
+Charbonneau _et al._ 2022 [Making Common Fund data more findable: Catalyzing a Data Ecosystem](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giac105/6835135)
+
 Zhuorui _et al._ 2022 [Getting Started with LINCS Datasets and Tools](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.487)
 
 Evangelista _et al._ 2022 [SigCom LINCS: data and metadata search engine for a million gene expression signatures](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac328/6582159?login=false)
@@ -9,8 +11,6 @@ Kropiwnicki _et al._ 2022 [Getting Started with the IDG KMC Datasets and Tools](
 Clarke _et al._ 2022 [Gene and drug landing page aggregator](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8969666/)
 
 Creasy _et al._ 2021 [HMPDACC: a Human Microbiome Project Multi-omic data resource](https://academic.oup.com/nar/article/49/D1/D734/6030231)
-
-Charbonneau _et al._ 2021 [Making Common Fund data more findable: Catalyzing a Data Ecosystem](https://www.biorxiv.org/content/10.1101/2021.11.05.467504v2)
 
 Lim _et al._ 2021 [Virtual training on virtual environments: an online
 open-source introduction to conda](https://jose.theoj.org/papers/10.21105/jose.00130)
